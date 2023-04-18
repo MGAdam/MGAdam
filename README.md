@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MGAdam
 - 👀 I’m interested in C# and Python Projects
-- 🌱 I’m currently a IT Security student at the FH St. Pölten 
+- 🌱 I’m currently an IT Security student at the FH St. Pölten 
 
 <!---
 - 💞️ I’m looking to collaborate on little side jobs
